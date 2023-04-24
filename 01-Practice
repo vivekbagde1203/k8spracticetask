@@ -1,1 +1,6 @@
+1. Create EKS kubernetes cluster in AWS CLI
+2. Create OIDC identity for k8s
+3. Create keypair for worker node group
+4. Create public workernode group.
+
 
